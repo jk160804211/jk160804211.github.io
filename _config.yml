@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            蒋康的博客
+title:            jk的博客
 tagline:          'A Jekyll theme'
 description:      在牛逼的路上渐行渐远
 url:              https://jk160804211.github.io
