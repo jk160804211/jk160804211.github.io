@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: post
 titile: opencv
 ---
 ###opencv for python
