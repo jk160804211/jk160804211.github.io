@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            蒋康的博客
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      在牛逼的路上渐行渐远
 url:              https://jk160804211.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -13,7 +13,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
+author:            蒋康
   name:           'jk160804211'
   url:            965662542@qq.com
 
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:           http://baidu.com
